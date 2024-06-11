@@ -1,0 +1,3 @@
+first You have to download Proteus 8 pro software for Hardware simulation of IOT components like Audrino/raspberry pi etc.
+In this project I have uploaded the .pdsprj file You have to download and run in proteus nothing extra required
+incase if you don't found any code, the Seperate Source Code for the file is also Given you can check and run it by creating a source Code space inside proteus
